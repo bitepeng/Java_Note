@@ -160,5 +160,5 @@
   
   
 ## 致谢
-在项目 **https://github.com/JackChen1999/Java-basic-introduction** 基础上优化
+本项目基于 **https://github.com/JackChen1999/Java-basic-introduction**
 
