@@ -1,6 +1,4 @@
-## Java基础入门笔记
-
-![](assets/note.jpg)
+## Java笔记
 
 > 十年生死两茫茫，不思量，自难忘，华年短暂，陈辞岁月悠悠伤，
 >
@@ -15,9 +13,6 @@
 对于一个开发团队而言，能在短期内开发出用户满意的软件系统是起核心竞争力的体现。
 
 每一个程序员都不能固步自封，要多接触新的行业，新的技术领域，突破自我。
-
-## GitHub托管主页
-在项目 **https://github.com/JackChen1999/Java-basic-introduction** 基础上优化
 
 
 ## 目录
@@ -162,4 +157,8 @@
 
 * [第12章 内存管理](https://alleniverson.gitbooks.io/java-basic-introduction/content/第12章%20内存管理/README.html)
   * [JVM 内存模型 Stack Heap](https://alleniverson.gitbooks.io/java-basic-introduction/content/第12章%20内存管理/JVM%20内存模型%20Stack%20Heap.html)
+  
+  
+## 致谢
+在项目 **https://github.com/JackChen1999/Java-basic-introduction** 基础上优化
 
