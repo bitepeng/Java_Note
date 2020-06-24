@@ -17,16 +17,8 @@
 每一个程序员都不能固步自封，要多接触新的行业，新的技术领域，突破自我。
 
 ## GitHub托管主页
+在项目 **https://github.com/JackChen1999/Java-basic-introduction** 基础上优化
 
-**https://github.com/JackChen1999/Java-basic-introduction**
-
-请读者点击Star进行关注并支持！
-
-## GitBook在线阅读
-
-在线阅读，PDF、ePub、Mobi电子书下载
-
-**https://alleniverson.gitbooks.io/java-basic-introduction/content**
 
 ## 目录
 
@@ -40,9 +32,7 @@
     * [Java语法基础-1](https://alleniverson.gitbooks.io/java-basic-introduction/content/第2章%20Java编程基础/Java语法基础-1.html)
     * [Java语法基础-2](https://alleniverson.gitbooks.io/java-basic-introduction/content/第2章%20Java编程基础/Java语法基础-2.html)
     * [基本数据类型包装类](https://alleniverson.gitbooks.io/java-basic-introduction/content/第2章%20Java编程基础/基本数据类型包装类.html)
-    * [阿里巴巴Java开发手册](https://alleniverson.gitbooks.io/java-basic-introduction/content/第2章%20Java编程基础/阿里巴巴Java开发手册.html)
-    * [阿里 Java 开发手册最新完美版，千锤百炼始出炉](https://alleniverson.gitbooks.io/java-basic-introduction/content/第2章%20Java编程基础/阿里%20Java%20开发手册最新完美版，千锤百炼始出炉.html)
-    * [阿里《Java开发手册》终极版！](https://alleniverson.gitbooks.io/java-basic-introduction/content/第2章%20Java编程基础/阿里《Java开发手册》终极版！.html)
+    * [阿里《Java开发手册》](https://alleniverson.gitbooks.io/java-basic-introduction/content/第2章%20Java编程基础/阿里《Java开发手册》终极版！.html)
     * [Java程序员必读的书籍](https://alleniverson.gitbooks.io/java-basic-introduction/content/第2章%20Java编程基础/Java程序员必读的书籍.html)
     * [Google Java编程风格指南](https://alleniverson.gitbooks.io/java-basic-introduction/content/第2章%20Java编程基础/Google%20Java编程风格指南.html)
     * [详细介绍JAVA和C++区别](https://alleniverson.gitbooks.io/java-basic-introduction/content/第2章%20Java编程基础/详细介绍JAVA和C++区别.html)
@@ -131,7 +121,7 @@
 
 * [第8章 网络编程](https://alleniverson.gitbooks.io/java-basic-introduction/content/第8章%20网络编程/README.html)
     * [网络编程](https://alleniverson.gitbooks.io/java-basic-introduction/content/第8章%20网络编程/网络编程.html)
-    * [写给那些让我糊里糊涂的HTTP、TCP、UDP、Socket](https://alleniverson.gitbooks.io/java-basic-introduction/content/第8章%20网络编程/写给那些让我糊里糊涂的HTTP、TCP、UDP、Socket.html)
+    * [HTTP、TCP、UDP、Socket](https://alleniverson.gitbooks.io/java-basic-introduction/content/第8章%20网络编程/写给那些让我糊里糊涂的HTTP、TCP、UDP、Socket.html)
     * [你应该知道的计算机网络知识](https://alleniverson.gitbooks.io/java-basic-introduction/content/第8章%20网络编程/你应该知道的计算机网络知识.html)
 
 * [第9章 安全加密](https://alleniverson.gitbooks.io/java-basic-introduction/content/第9章%20安全加密/README.html)
@@ -173,17 +163,3 @@
 * [第12章 内存管理](https://alleniverson.gitbooks.io/java-basic-introduction/content/第12章%20内存管理/README.html)
   * [JVM 内存模型 Stack Heap](https://alleniverson.gitbooks.io/java-basic-introduction/content/第12章%20内存管理/JVM%20内存模型%20Stack%20Heap.html)
 
-## 关注我
-
-- Email：<619888095@qq.com>
-- CSDN博客：[Allen Iverson](http://blog.csdn.net/axi295309066)
-- 新浪微博：[AndroidDeveloper](http://weibo.com/u/1848214604?topnav=1&wvr=6&topsug=1&is_all=1)
-- GitHub：[JackChan1999](https://github.com/JackChan1999)
-- GitBook：[alleniverson](https://www.gitbook.com/@alleniverson)
-- 个人博客：[JackChan](https://jackchan1999.github.io/)
-
-如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作！
-
-|                  微信赞赏支持                  |                 支付宝赞赏支持                  |
-| :--------------------------------------: | :--------------------------------------: |
-| <img src="assets/weixin.png" width="300" /> | <img src="assets/支付宝.jpg" width="300" /> |
